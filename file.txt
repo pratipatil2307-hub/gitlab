@@ -1,1 +1,5 @@
- student name
+student management system
+student registratiton
+student USN
+student name
+student login
